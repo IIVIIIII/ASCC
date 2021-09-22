@@ -12,7 +12,8 @@ This results in the final audio being comprised of eight different files with th
 
 The files above are manipulations of the source audio made through a program called Spear. The frequency resolution of a file is chosen as the lowest integer that will result in the desired FFT size according to Spear's algorhythm. When the desired FFT size requires a frequency resolution less than one, the largest tenth is chosen instead. The file is resynthesized according to the paramaters shown in the table pictured above. These parameters must be entered by hand as shown in the image below:
 
-
+![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/spear.png?raw=true)
+Minimum Amplitude Threshold and Amplitude Threshold Under Peak are left at their default settings
 
 The recording of Jimi Hendrix’s interpretation of “The Star Spangled Banner” at Woodstock was chosen for its political implications. Furthermore, the performance occurred in 1969 which, for a data set that extends to 2019, delineates a convenient timespan of fifty years. More importantly, Hendrix’s performance offered a depiction of the United States’ collective anxieties which, at the time, mostly stemmed from the war in Vietnam. Additive Synthesis of a Climate Crisis appropriates the core expression of Hendrix’s “Star Spangled Banner” and applies it to the most severe crisis facing our contemporary world: climate change.
 
