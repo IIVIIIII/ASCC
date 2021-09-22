@@ -16,8 +16,6 @@ The files above are manipulations of the source audio made through a program cal
 
 The recording of Jimi Hendrix’s interpretation of “The Star Spangled Banner” at Woodstock was chosen for its political implications. Furthermore, the performance occurred in 1969 which, for a data set that extends to 2019, delineates a convenient timespan of fifty years. More importantly, Hendrix’s performance offered a depiction of the United States’ collective anxieties which, at the time, mostly stemmed from the war in Vietnam. Additive Synthesis of a Climate Crisis appropriates the core expression of Hendrix’s “Star Spangled Banner” and applies it to the most severe crisis facing our contemporary world: climate change.
 
-Additive Synthesis of a Climate Crisis was included as a submission to a research article by climate scientist Dr. Mika Tosca. The article, "Reimagining futures: Collaborations Between Artists, Designers, and Scientists as a Roadmap to Help Solve the Climate Crisis," was published in the UC Press's climate journal, Elementa. To read the article follow this link:
-
-https://online.ucpress.edu/elementa/article/9/1/00016/118297/Reimagining-futuresCollaborations-between-artists
+Additive Synthesis of a Climate Crisis was included as a submission to a research article by climate scientist Dr. Mika Tosca. The article, "Reimagining futures: Collaborations Between Artists, Designers, and Scientists as a Roadmap to Help Solve the Climate Crisis," was published in the UC Press's climate journal, Elementa. To read the article follow this link: https://online.ucpress.edu/elementa/article/9/1/00016/118297/Reimagining-futuresCollaborations-between-artists
 
 This repository presents a recreation of the project with a data calculation process that has been automated and adjusted to achieve greater efficiency and accuracy. The included "notebook" folder contains the jupyter notebook used to calculate the data.
