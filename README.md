@@ -10,7 +10,7 @@ This results in the final audio being comprised of eight different files with th
 
 ![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/jimis.png?raw=true)
 
-The files above are manipulations of the source audio made through a program called Spear. The frequency resolution of a file is chosen as the lowest integer that will result in the desired FFT size according to Spear's algorhythm. When the desired FFT size requires a frequency resolution less than one, the largest tenth is chosen instead. The file is resynthesized according to the paramaters shown in the table pictured above (Minimum Amplitude Threshold and Amplitude Threshold Under Peak are left at their default settings). The specified parameters must be entered by hand as shown in the image below:
+The files above are manipulations of the source audio made through a program called Spear. The frequency resolution of a file is chosen as the lowest integer that will result in the desired FFT size according to Spear's algorithm. When the desired FFT size requires a frequency resolution less than one, the largest tenth is chosen instead. The file is resynthesized according to the paramaters shown in the table pictured above (Minimum Amplitude Threshold and Amplitude Threshold Under Peak are left at their default settings). The specified parameters must be entered by hand as shown in the image below:
 
 ![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/spear.png?raw=true)
 
