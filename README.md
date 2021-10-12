@@ -19,3 +19,11 @@ The recording of Jimi Hendrix’s interpretation of “The Star Spangled Banner�
 Additive Synthesis of a Climate Crisis was included as a submission to a research article by climate scientist Dr. Mika Tosca. The article, "Reimagining futures: Collaborations Between Artists, Designers, and Scientists as a Roadmap to Help Solve the Climate Crisis," was published in the UC Press's climate journal, Elementa. To read the article follow this link: https://online.ucpress.edu/elementa/article/9/1/00016/118297/Reimagining-futuresCollaborations-between-artists
 
 This repository presents a recreation of the project with a data calculation process that has been automated and adjusted to achieve greater efficiency and accuracy. The included "notebook" folder contains the jupyter notebook used to calculate the data.
+
+Tools required:
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Max
+- Spear
