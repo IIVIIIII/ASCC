@@ -6,11 +6,11 @@ Within the selected span of years as scaled to the duration of the audio recordi
 
 ![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/emissons_and_fft.png?raw=true)
 
-This results in the final audio being comprised of eight different files with the folowing properties:
+This results in the final audio being comprised of eight different files with the following properties:
 
 ![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/jimis.png?raw=true)
 
-The files above are manipulations of the source audio made through a program called Spear. The frequency resolution of a file is chosen as the lowest integer that will result in the desired FFT size according to Spear's algorithm. When the desired FFT size requires a frequency resolution less than one, the largest tenth is chosen instead. The file is resynthesized according to the paramaters shown in the table pictured above (Minimum Amplitude Threshold and Amplitude Threshold Under Peak are left at their default settings). The specified parameters must be entered by hand as shown in the image below:
+The files above are manipulations of the source audio made through a program called Spear. The frequency resolution of a file is chosen as the lowest integer that will result in the desired FFT size according to Spear's algorithm. When the desired FFT size requires a frequency resolution less than one, the largest tenth is chosen instead. The file is resynthesized according to the parameters shown in the table pictured above (Minimum Amplitude Threshold and Amplitude Threshold Under Peak are left at their default settings). The specified parameters must be entered by hand as shown in the image below:
 
 ![alt text](https://github.com/IIVIIIII/ASCC/blob/main/resources/photos/spear.png?raw=true)
 
@@ -20,6 +20,10 @@ Additive Synthesis of a Climate Crisis was included as a submission to a researc
 
 This repository presents a recreation of the project with a data calculation process that has been automated and adjusted to achieve greater efficiency and accuracy. The included "notebook" folder contains the jupyter notebook used to calculate the data.
 
+The carbon data and sampled audio used are available at these links:
+- Carbon Data: https://www.icos-cp.eu/science-and-impact/global-carbon-budget/2019
+- Sampled Audio: https://www.youtube.com/watch?v=sjzZh6-h9fM
+
 Tools required:
 - Python
 - Pandas
@@ -27,3 +31,4 @@ Tools required:
 - Matplotlib
 - Max
 - Spear
+
